@@ -13,15 +13,15 @@
         "warningColor": "#ff6b00",
         "dangerColor": "#ff0000",
         "mainFont": "Space Grotesk",
-        "display1Font": "Space Grotesk",
+        "display1Font": "Poppins",
         "display1Size": 2.625,
         "display2Font": "Poppins",
         "display2Size": "3.2",
-        "display5Font": "Space Grotesk",
+        "display5Font": "Poppins",
         "display5Size": 2,
         "display7Font": "Poppins",
         "display7Size": 1.5,
-        "display4Font": "Space Grotesk",
+        "display4Font": "Poppins",
         "display4Size": "2",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -61,7 +61,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 12,
-    "versionPublish": "5.5.8"
+    "versionPublish": "5.5.8",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -823,13 +824,13 @@
             }
           },
           "_cid": "sWi8ClNK93",
+          "_anchor": "accordion01-7",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "accordion01-7",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_name": "gallery3",
@@ -928,11 +929,11 @@
             }
           },
           "_cid": "sWic2ukXCw",
+          "_anchor": "gallery3-8",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "gallery3-8"
+          "_params": {}
         },
         {
           "_name": "menu2",
@@ -1361,11 +1362,11 @@
             }
           },
           "_cid": "sWiniyY9pX",
+          "_anchor": "menu2-a",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu2-a"
+          "_params": {}
         }
       ]
     }
